@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## A host of ideas
 
-![Image of fast.ai logo](images/logo.png)
+My name's Morgan. I'll never be the most famous or consistent mathematics blogger, but at least I'll know where to find my own thoughts this way. I should probably have made a topos pun in the name, being a topos theorist, but too many people have abused toposes without an adequate understanding of them for that to fly.
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+I made this blog using [fast.ai](https://www.fast.ai).
