@@ -43,3 +43,4 @@ kramdown:
   syntax_highlighter: orange
   
 comments: true
+comment_issue_id: 2
