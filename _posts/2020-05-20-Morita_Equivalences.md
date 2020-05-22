@@ -55,3 +55,5 @@ I won't prove it here (it may appear in some joint work with Jens Hemelaer befor
 Morita equivalence problems, in the sense I describe here, are an important piece of understanding how various constructions in mathematics transform information. I hope that this post illuminates the shape of this problem, some possible obstacles, and a general strategy, if not for solving the problem in full, at least for thinking about it and tackling a more manageable sub-problem.
 
 comment_issue_id: 2
+<script src="/js/jquery.min.js"></script>
+{% include comments.html element=".post-content" github_account="jhvanderschee/jekyllcodex" require_cookie_consent="true" %}
