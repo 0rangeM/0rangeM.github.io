@@ -42,4 +42,5 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: orange
   
-comment_issue_id: 2
+comments: true
+  comment_issue_id: 2
