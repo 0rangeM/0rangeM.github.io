@@ -53,3 +53,11 @@ I won't prove it here (it may appear in some joint work with Jens Hemelaer befor
 ## Conclusion
 
 Morita equivalence problems, in the sense I describe here, are an important piece of understanding how various constructions in mathematics transform information. I hope that this post illuminates the shape of this problem, some possible obstacles, and a general strategy, if not for solving the problem in full, at least for thinking about it and tackling a more manageable sub-problem.
+
+<script src="https://utteranc.es/client.js"
+        repo="0rangeM/0rangeM.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
